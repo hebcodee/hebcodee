@@ -18,54 +18,54 @@ export default function Home() {
           <SectionContent className="w-6/6">
             <p className="w-5/6">Through my studies, I've gained a solid understanding of computer science and web development concepts, and have dedicated a lot of my free time to apply these concepts to real-world scenarios and applications.</p>
             <div className="grid grid-cols-6 grid-rows-4 w-full h-70 gap-4">
-              <div className="row-span-4 col-span-2 border-2 border-black p-4">
+              <div className="row-span-4 col-span-2 border-2 border-black p-2">
                 <h1 className="mb-6">Front-End</h1>
                 <div className="grid grid-cols-2 gap-4">
-                  <div className="w-8 h-8 max-w-full max-h-full  bg-zinc-300 rounded-lg"></div>
-                  <div className="w-8 h-8 max-w-full max-h-full  bg-zinc-300 rounded-lg"></div>
-                  <div className="w-8 h-8 max-w-full max-h-full  bg-zinc-300 rounded-lg"></div>
-                  <div className="w-8 h-8 max-w-full max-h-full  bg-zinc-300 rounded-lg"></div>
-                  <div className="w-8 h-8 max-w-full max-h-full  bg-zinc-300 rounded-lg"></div>
-                  <div className="w-8 h-8 max-w-full max-h-full  bg-zinc-300 rounded-lg"></div>
-                  <div className="w-8 h-8 max-w-full max-h-full  bg-zinc-300 rounded-lg"></div>
-                  <div className="w-8 h-8 max-w-full max-h-full  bg-zinc-300 rounded-lg"></div>
+                  <div className="w-8 h-8 max-w-full max-h-full  bg-[var(--box)] rounded-lg"></div>
+                  <div className="w-8 h-8 max-w-full max-h-full  bg-[var(--box)] rounded-lg"></div>
+                  <div className="w-8 h-8 max-w-full max-h-full  bg-[var(--box)] rounded-lg"></div>
+                  <div className="w-8 h-8 max-w-full max-h-full  bg-[var(--box)] rounded-lg"></div>
+                  <div className="w-8 h-8 max-w-full max-h-full  bg-[var(--box)] rounded-lg"></div>
+                  <div className="w-8 h-8 max-w-full max-h-full  bg-[var(--box)] rounded-lg"></div>
+                  <div className="w-8 h-8 max-w-full max-h-full  bg-[var(--box)] rounded-lg"></div>
+                  <div className="w-8 h-8 max-w-full max-h-full  bg-[var(--box)] rounded-lg"></div>
                 </div>
 
               </div>
               <div className="row-span-2 col-span-3 border-2 border-black">
                 <h1 className="px-4">Back-End</h1>
                 <div className="grid grid-cols-3 gap-4 p-4">
-                  <div className="w-8 h-8 max-w-full max-h-full  bg-zinc-300 rounded-lg"></div>
-                  <div className="w-8 h-8 max-w-full max-h-full  bg-zinc-300 rounded-lg"></div>
-                  <div className="w-8 h-8 max-w-full max-h-full  bg-zinc-300 rounded-lg"></div>
-                  <div className="w-8 h-8 max-w-full max-h-full  bg-zinc-300 rounded-lg"></div>
-                  <div className="w-8 h-8 max-w-full max-h-full  bg-zinc-300 rounded-lg"></div>
-                  <div className="w-8 h-8 max-w-full max-h-full  bg-zinc-300 rounded-lg"></div>
+                  <div className="w-8 h-8 max-w-full max-h-full  bg-[var(--box)] rounded-lg"></div>
+                  <div className="w-8 h-8 max-w-full max-h-full  bg-[var(--box)] rounded-lg"></div>
+                  <div className="w-8 h-8 max-w-full max-h-full  bg-[var(--box)] rounded-lg"></div>
+                  <div className="w-8 h-8 max-w-full max-h-full  bg-[var(--box)] rounded-lg"></div>
+                  <div className="w-8 h-8 max-w-full max-h-full  bg-[var(--box)] rounded-lg"></div>
+                  <div className="w-8 h-8 max-w-full max-h-full  bg-[var(--box)] rounded-lg"></div>
                 </div>
               </div>
               <div className="row-span-2 col-span-1 border-2 border-black">
                 <h1 className="pl-1.5 max-w-full">Testes</h1>
-                <div className="grid grid-cols-1 gap-4 p-2">
-                  <div className="w-8 h-8  max-w-full max-h-full  bg-zinc-300 rounded-lg"></div>
-                  <div className="w-8 h-8  max-w-full max-h-full  bg-zinc-300 rounded-lg"></div>
+                <div className="grid grid-cols-1 gap-4 px-1.5 items-center">
+                  <div className="w-8 h-8  max-w-full max-h-full  bg-[var(--box)] rounded-lg"></div>
+                  <div className="w-8 h-8  max-w-full max-h-full  bg-[var(--box)] rounded-lg"></div>
                 </div>
               </div>
               <div className="row-span-2 col-span-2 border-2 border-black">
                 <h1 className="pl-3">Banco de dados</h1>
                 <div className="grid grid-cols-2 gap-4 p-2">
-                  <div className="w-8 h-8 max-w-full max-h-full  bg-zinc-300 rounded-lg"></div>
-                  <div className="w-8 h-8 max-w-full max-h-full  bg-zinc-300 rounded-lg"></div>
-                  <div className="w-8 h-8 max-w-full max-h-full  bg-zinc-300 rounded-lg"></div>
-                  <div className="w-8 h-8 max-w-full max-h-full  bg-zinc-300 rounded-lg"></div>
+                  <div className="w-8 h-8 max-w-full max-h-full  bg-[var(--box)] rounded-lg"></div>
+                  <div className="w-8 h-8 max-w-full max-h-full  bg-[var(--box)] rounded-lg"></div>
+                  <div className="w-8 h-8 max-w-full max-h-full  bg-[var(--box)] rounded-lg"></div>
+                  <div className="w-8 h-8 max-w-full max-h-full  bg-[var(--box)] rounded-lg"></div>
                 </div>
               </div>
               <div className="row-span-2 col-span-2 border-2 border-black">
                 <h1 className="px-3">Cloud/DevOps</h1>
                 <div className="grid grid-cols-2 gap-4 p-2">
-                  <div className="w-8 h-8 max-w-full max-h-full  bg-zinc-300 rounded-lg"></div>
-                  <div className="w-8 h-8 max-w-full max-h-full  bg-zinc-300 rounded-lg"></div>
-                  <div className="w-8 h-8 max-w-full max-h-full  bg-zinc-300 rounded-lg"></div>
-                  <div className="w-8 h-8 max-w-full max-h-full  bg-zinc-300 rounded-lg"></div>
+                  <div className="w-8 h-8 max-w-full max-h-full  bg-[var(--box)] rounded-lg"></div>
+                  <div className="w-8 h-8 max-w-full max-h-full  bg-[var(--box)] rounded-lg"></div>
+                  <div className="w-8 h-8 max-w-full max-h-full  bg-[var(--box)] rounded-lg"></div>
+                  <div className="w-8 h-8 max-w-full max-h-full  bg-[var(--box)] rounded-lg"></div>
                 </div>
               </div>
             </div>
@@ -77,7 +77,7 @@ export default function Home() {
           </SectionTitle>
           <SectionContent className="w-6/6">
             <p className="w-5/6">I like to stay busy and always have a project in the works. Take a look at some of the applications, articles, and companies l've dedicated my time to.</p>
-            <div className="grid grid-cols-2 gap-4">
+            <div className="grid grid-cols-2 gap-5 w-full space-y-6">
               <Article
                 title="Bewear Ecommerce"
                 content="An e-commerce applicotion built with React & Shopify for a coffee roasting company"
