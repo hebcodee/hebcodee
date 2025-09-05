@@ -1,6 +1,7 @@
 "use client"
 
 import Link from "next/link"
+import Image from "next/image"
 import { useTheme } from "next-themes"
 import { FiMoon } from "react-icons/fi";
 import { FiSun } from "react-icons/fi";
@@ -13,8 +14,7 @@ const Header = () => {
         <>
             <div className="flex flex-row justify-between items-center">
                 <Link href="/" className="flex flex-col">
-                    <p>heb</p>
-                    <p>codee</p>
+                    <Image src="/hebcodee.png" width="42" height="32" alt="logo" />
                 </Link>
 
                 <div className="flex flex-row justify-between gap-3 items-center ml-auto ">

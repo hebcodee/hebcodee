@@ -6,10 +6,10 @@ const Hero = () => {
     return (
         <section className="mt-20">
             <div className="flex items-center gap-1.5 w-4/6 mb-8">
-                <div className="flex border-t border-2 border-[#AAAAAA] w-24"></div>
-                <FaGithub color="AAAAAA" />
-                <FiLinkedin color="AAAAAA" />
-                <FaInstagram color="AAAAAA" />
+                <div className="flex border-t border-2 border-[var(--box)] w-24"></div>
+                <FaGithub color="var(--box)" />
+                <FiLinkedin color="var(--box)" />
+                <FaInstagram color="var(--box)" />
             </div>
             <h1 className="ml-5 mb-6 text-[20px] font-semibold">
                 Hi there, l'm Herberth. <br />
