@@ -1,3 +1,4 @@
+import Article from "@/components/common/Article";
 import Footer from "@/components/common/Footer";
 import Header from "@/components/common/Header";
 import Hero from "@/components/common/Hero";
@@ -22,8 +23,27 @@ export default function Home() {
           <SectionTitle>
             <h2>What I’ve been working on </h2>
           </SectionTitle>
-          <SectionContent>
-            <p>I like to stay busy and always have a project in the works. Take a look at some of the applications, articles, and companies l've dedicated my time to.</p>
+          <SectionContent className="w-6/6">
+            <p className="w-5/6">I like to stay busy and always have a project in the works. Take a look at some of the applications, articles, and companies l've dedicated my time to.</p>
+            <div className="grid grid-cols-2 gap-4">
+              <Article
+                title="Bewear Ecommerce"
+                content="An e-commerce applicotion built with React & Shopify for a coffee roasting company"
+                link="Ver Projeto" />
+              <Article
+                title="Timer"
+                content="An e-commerce applicotion built with React & Shopify for a coffee roasting company"
+                link="Ver Projeto" />
+              <Article
+                title="University Uninassau"
+                content="An e-commerce applicotion built with React & Shopify for a coffee roasting company"
+                link="Ler Historia" />
+              <Article
+                title="Anaise de Dados"
+                content="An e-commerce applicotion built with React & Shopify for a coffee roasting company"
+                link="Ler Explição" />
+            </div>
+
           </SectionContent>
         </Section>
         <Section>
