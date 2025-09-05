@@ -7,7 +7,7 @@ const Footer = () => {
             </div>
             <div>icon</div>
 
-            <div className="flex flex-row justify-between gap-3 text-[#979797] text-[10px]">
+            <div className="flex flex-row justify-between gap-3 text-[#979797] text-[10px] items-center">
                 <a href="">Github</a>
                 <a href="">Linkedin</a>
                 <a href="">Instagram</a>
