@@ -11,7 +11,7 @@ const Article = ({ title, content, link }: ArticleProps) => {
             <div className="w-40">
                 <div className="w-full h-20 bg-[var(--box)] rounded-lg mt-1"></div>
                 <div className="pl-2">
-                    <h3 className="font-semibold text-black mt-1 mb-1">{title}</h3>
+                    <h3 className="font-semibold text-[var(--foreground)] mt-1 mb-1">{title}</h3>
                     <p className="mb-1">{content}</p>
                     <Link href="/" className="font-semibold text-black">{link}</Link>
                 </div>

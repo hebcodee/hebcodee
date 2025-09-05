@@ -17,13 +17,13 @@ const Header = () => {
                     <Image src="/hebcodee.png" width="42" height="32" alt="logo" />
                 </Link>
 
-                <div className="flex flex-row justify-between gap-3 items-center ml-auto ">
+                <div className="flex flex-row justify-between gap-3 items-center ml-auto text-[12px]">
                     <a href="#skills">My Skills</a>
                     <a href="#projects">Project</a>
                     <a href="#contact">Contact</a>
                 </div>
 
-                <div>
+                <div className="ml-4">
                     <Button
                         variant="ghost"
                         className="flex items-center" size="icon"
