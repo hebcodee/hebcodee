@@ -12,13 +12,13 @@ const Header = () => {
                     <p>codee</p>
                 </Link>
 
-                <div className="flex flex-row justify-between gap-3 items-center ml-auto">
-                    <a href="">Home</a>
-                    <a href="">My Skills</a>
-                    <a href="">Project</a>
-                    <FiMoon />
+                <div className="flex flex-row justify-between gap- items-center ml-auto ">
+                    <a href="#skills">My Skills</a>
+                    <a href="#projects">Project</a>
+                    <a href="#contact">Contact</a>
                 </div>
 
+                <div>icon</div>
 
             </div>
         </>
