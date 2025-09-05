@@ -42,6 +42,7 @@ export default function Home() {
                 title="Anaise de Dados"
                 content="An e-commerce applicotion built with React & Shopify for a coffee roasting company"
                 link="Ler Explição" />
+
             </div>
 
           </SectionContent>
