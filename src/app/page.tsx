@@ -10,15 +10,67 @@ export default function Home() {
 
       <div>
         <Hero />
-        <Section>
+        <Section id="skills">
           <SectionTitle>
             <h2>My skills</h2>
           </SectionTitle>
-          <SectionContent>
-            <p>Through my studies, I've gained a solid understanding of computer science and web development concepts, and have dedicated a lot of my free time to apply these concepts to real-world scenarios and applications.</p>
+          <SectionContent className="w-6/6">
+            <p className="w-5/6">Through my studies, I've gained a solid understanding of computer science and web development concepts, and have dedicated a lot of my free time to apply these concepts to real-world scenarios and applications.</p>
+            <div className="grid grid-cols-6 grid-rows-4 w-full h-70 gap-4">
+              <div className="row-span-4 col-span-2 border-2 border-black p-4">
+                <h1 className="mb-6">Front-End</h1>
+                <div className="grid grid-cols-2 gap-4">
+                  <div className="w-8 h-8 max-w-full max-h-full  bg-zinc-300 rounded-lg"></div>
+                  <div className="w-8 h-8 max-w-full max-h-full  bg-zinc-300 rounded-lg"></div>
+                  <div className="w-8 h-8 max-w-full max-h-full  bg-zinc-300 rounded-lg"></div>
+                  <div className="w-8 h-8 max-w-full max-h-full  bg-zinc-300 rounded-lg"></div>
+                  <div className="w-8 h-8 max-w-full max-h-full  bg-zinc-300 rounded-lg"></div>
+                  <div className="w-8 h-8 max-w-full max-h-full  bg-zinc-300 rounded-lg"></div>
+                  <div className="w-8 h-8 max-w-full max-h-full  bg-zinc-300 rounded-lg"></div>
+                  <div className="w-8 h-8 max-w-full max-h-full  bg-zinc-300 rounded-lg"></div>
+                </div>
+
+              </div>
+              <div className="row-span-2 col-span-3 border-2 border-black">
+                <h1 className="px-4">Back-End</h1>
+                <div className="grid grid-cols-3 gap-4 p-4">
+                  <div className="w-8 h-8 max-w-full max-h-full  bg-zinc-300 rounded-lg"></div>
+                  <div className="w-8 h-8 max-w-full max-h-full  bg-zinc-300 rounded-lg"></div>
+                  <div className="w-8 h-8 max-w-full max-h-full  bg-zinc-300 rounded-lg"></div>
+                  <div className="w-8 h-8 max-w-full max-h-full  bg-zinc-300 rounded-lg"></div>
+                  <div className="w-8 h-8 max-w-full max-h-full  bg-zinc-300 rounded-lg"></div>
+                  <div className="w-8 h-8 max-w-full max-h-full  bg-zinc-300 rounded-lg"></div>
+                </div>
+              </div>
+              <div className="row-span-2 col-span-1 border-2 border-black">
+                <h1 className="pl-1.5 max-w-full">Testes</h1>
+                <div className="grid grid-cols-1 gap-4 p-2">
+                  <div className="w-8 h-8  max-w-full max-h-full  bg-zinc-300 rounded-lg"></div>
+                  <div className="w-8 h-8  max-w-full max-h-full  bg-zinc-300 rounded-lg"></div>
+                </div>
+              </div>
+              <div className="row-span-2 col-span-2 border-2 border-black">
+                <h1 className="pl-3">Banco de dados</h1>
+                <div className="grid grid-cols-2 gap-4 p-2">
+                  <div className="w-8 h-8 max-w-full max-h-full  bg-zinc-300 rounded-lg"></div>
+                  <div className="w-8 h-8 max-w-full max-h-full  bg-zinc-300 rounded-lg"></div>
+                  <div className="w-8 h-8 max-w-full max-h-full  bg-zinc-300 rounded-lg"></div>
+                  <div className="w-8 h-8 max-w-full max-h-full  bg-zinc-300 rounded-lg"></div>
+                </div>
+              </div>
+              <div className="row-span-2 col-span-2 border-2 border-black">
+                <h1 className="px-3">Cloud/DevOps</h1>
+                <div className="grid grid-cols-2 gap-4 p-2">
+                  <div className="w-8 h-8 max-w-full max-h-full  bg-zinc-300 rounded-lg"></div>
+                  <div className="w-8 h-8 max-w-full max-h-full  bg-zinc-300 rounded-lg"></div>
+                  <div className="w-8 h-8 max-w-full max-h-full  bg-zinc-300 rounded-lg"></div>
+                  <div className="w-8 h-8 max-w-full max-h-full  bg-zinc-300 rounded-lg"></div>
+                </div>
+              </div>
+            </div>
           </SectionContent>
         </Section>
-        <Section>
+        <Section id="projects">
           <SectionTitle>
             <h2>What I’ve been working on </h2>
           </SectionTitle>
@@ -26,7 +78,7 @@ export default function Home() {
             <p>I like to stay busy and always have a project in the works. Take a look at some of the applications, articles, and companies l've dedicated my time to.</p>
           </SectionContent>
         </Section>
-        <Section>
+        <Section id="contact">
           <SectionTitle>
             <h2>Let’s Biuld Something Together </h2>
           </SectionTitle>

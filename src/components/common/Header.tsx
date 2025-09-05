@@ -9,12 +9,22 @@ const Header = () => {
                 </div>
 
                 <div className="flex flex-row justify-between gap-3">
-                    <a href="">Home</a>
-                    <a href="">My Skills</a>
-                    <a href="">Project</a>
+                    <a href="#skills">My Skills</a>
+                    <a href="#projects">Project</a>
+                    <a href="#contact">Contact</a>
                 </div>
 
-                <div>icon</div>
+                {/* <Button
+                            variant="ghost"
+                            className="flex items-center" size="icon"
+                            onClick={() => setTheme(theme === "dark" ? "light" : "dark")}
+                        >
+                            {theme === "dark" ? (
+                                <Sun className="size-6" />
+                            ) : (
+                                <Moon className="size-6" />
+                            )}
+                        </Button> */}
 
             </div>
         </>
