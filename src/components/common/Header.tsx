@@ -17,10 +17,10 @@ const Header = () => {
                     <Image src="/hebcodee.png" width="42" height="32" alt="logo" />
                 </Link>
 
-                <div className="flex flex-row justify-between gap-3 items-center ml-auto text-[12px]">
-                    <a href="#skills">My Skills</a>
-                    <a href="#projects">Project</a>
-                    <a href="#contact">Contact</a>
+                <div className="flex flex-row justify-between gap-3 items-center ml-auto text-[12px] font-semibold">
+                    <Link className="relative inline-block text-[var(--foreground)] after:content-[''] after:absolute after:left-0 after:bottom-[-4px] after:h-[3px] after:w-full after:bg-red-500 after:origin-center after:scale-x-0 after:transition-transform after:duration-500 after:delay-100 hover:after:scale-x-100" href="#skills">My Skills</Link>
+                    <Link className="relative inline-block text-[var(--foreground) after:content-[''] after:absolute after:left-0 after:bottom-[-4px] after:h-[3px] after:w-full after:bg-red-500 after:origin-center after:scale-x-0 after:transition-transform after:duration-500 after:delay-100 hover:after:scale-x-100" href="#projects">Project</Link>
+                    <Link className="relative inline-block text-[var(--foreground) after:content-[''] after:absolute after:left-0 after:bottom-[-4px] after:h-[3px] after:w-full after:bg-red-500 after:origin-center after:scale-x-0 after:transition-transform after:duration-500 after:delay-100 hover:after:scale-x-100" href="#contact">Contact</Link>
                 </div>
 
                 <div className="ml-4">

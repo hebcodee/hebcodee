@@ -10,7 +10,9 @@ export default function NotFound() {
     return (
         <>
             <div className="mx-5">
-                <Header />
+                <div className="py-5">
+                    <Header />
+                </div>
 
                 <FaArrowLeft size={18} className="mt-10" />
 
