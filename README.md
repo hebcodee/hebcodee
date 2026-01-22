@@ -44,7 +44,7 @@ Me chamo Herberth Guimarães, tenho 21 anos e sou natural da Paraiba. Sou formad
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🖥️ Linguagens e Tecnologias
 <img 
     align="left" 
     alt="JavaScript" 
@@ -212,6 +212,14 @@ Me chamo Herberth Guimarães, tenho 21 anos e sou natural da Paraiba. Sou formad
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="n8n" 
+    title="n8n"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/n8n-color.png" 
 />
 
 <br/>
