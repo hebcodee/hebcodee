@@ -33,13 +33,7 @@ Me chamo Herberth Guimarães, tenho 21 anos e sou natural da Paraiba. Sou formad
             src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=fire&logoColor=fff&color=orange&label=github%20streak&query=%24.currentStreak.length&suffix=%20days&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3Dhebcodee%26type%3Djson"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
-        <img 
-            alt="my-repos" 
-            title="Veja Meus Repositorios" 
-            src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo"
-        />
-    </a>
+   
 </p>
 
 ---
