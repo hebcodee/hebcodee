@@ -4,7 +4,7 @@
 
 **`Software Engineer`**
 
-Me chamo Herberth Guimarães, tenho 21 anos e sou natural da Paraiba. Sou formado em Analise e Desenvolvimento de Sistema, e apaixonado por tecnologia. Adoro fazer parte de projetos desafiadores! Atuei em projetos nacionais e internacionais, entregando soluções escaláveis, seguras e de alto desempenho. Se quiser trocar uma ideia, colaborar em um projeto ou só falar de tech, é só chamar! ☕
+Tenho 21 anos e sou natural da Paraiba. Sou formado em Analise e Desenvolvimento de Sistema, e apaixonado por tecnologia. Adoro fazer parte de projetos desafiadores! Atuei em projetos nacionais e internacionais, entregando soluções escaláveis, seguras e de alto desempenho. Se quiser trocar uma ideia, colaborar em um projeto ou só falar de tech, é só chamar! ☕
 
 <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
