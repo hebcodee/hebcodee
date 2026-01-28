@@ -6,37 +6,6 @@
 
 Tenho 21 anos e sou natural da Paraiba. Sou formado em Analise e Desenvolvimento de Sistema, e apaixonado por tecnologia. Adoro fazer parte de projetos desafiadores! Atuei em projetos nacionais e internacionais, entregando soluções escaláveis, seguras e de alto desempenho. Se quiser trocar uma ideia, colaborar em um projeto ou só falar de tech, é só chamar! ☕
 
-<p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
-        <img 
-            alt="star" 
-            title="Github Stars" 
-            src="https://custom-icon-badges.demolab.com/github/stars/hebcodee/custom-icon-badges?logo=star&style=flat"
-        />
-    </a>
-    <a href="https://www.youtube.com/@larissakich">
-        <img 
-            alt="lastcommit" 
-            title="Github Last Commit" 
-            src="https://custom-icon-badges.demolab.com/github/last-commit/hebcodee/custom-icon-badges?logo=history&logoColor=white"
-        />
-    </a> 
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
-        <img 
-            alt="Github Pull Request" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/issues-pr-closed/hebcodee/custom-icon-badges?color=purple&logo=git-pull-request&logoColor=white"
-        />
-    </a>
-    <a href="https://github.com/Larissakich?tab=followers">
-        <img 
-            alt="github-streak" 
-            title="Github Streak" 
-            src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=fire&logoColor=fff&color=orange&label=github%20streak&query=%24.currentStreak.length&suffix=%20days&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3Dhebcodee%26type%3Djson"
-        />
-    </a>
-   
-</p>
 
 ---
 
