@@ -8,18 +8,36 @@ Tenho 21 anos e sou natural da Paraiba. Sou formado em Analise e Desenvolvimento
 
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5583999853630)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/herberth-guimaraes/)
-[![Portfolio](https://img.shields.io/badge/look_my-portfolio-blue)](https://github.com/hebcodee)
+<a>
+<img src="https://img.shields.io/badge/look_my-portfolio-blue" alt="hebcodee" align="right" />
+<a/>
 
 ---
 
 ### 🖥️ Linguagens e Tecnologias
 <img 
     align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
+    alt="Java"
+    title="Java" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Spring-Boot" 
+    title="Spring-Boot"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" 
+/>
+<img 
+    align="left" 
+    alt="NodeJs" 
+    title="NodeJs"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" 
 />
 <img 
     align="left" 
@@ -28,14 +46,6 @@ Tenho 21 anos e sou natural da Paraiba. Sou formado em Analise e Desenvolvimento
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
 />
 <img 
     align="left" 
@@ -69,22 +79,7 @@ Tenho 21 anos e sou natural da Paraiba. Sou formado em Analise e Desenvolvimento
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Java"
-    title="Java" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Spring-Boot" 
-    title="Spring-Boot"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" 
-/>
+
 <img 
     align="left" 
     alt="Golang" 
@@ -197,14 +192,18 @@ Tenho 21 anos e sou natural da Paraiba. Sou formado em Analise e Desenvolvimento
 
 <p>
 
+
+ <img src="https://komarev.com/ghpvc/?username=hebcodee" alt="hebcodee" align="right" />
+ 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=hebcodee&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=hebcodee&theme=tokyonight&layout=compact&custom_title=Tecnologias&include_all_commits=true&count_private=true" 
   />
+  
   <img 
-    align="left" 
+    align="" 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
