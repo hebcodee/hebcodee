@@ -6,6 +6,10 @@
 
 Tenho 21 anos e sou natural da Paraiba. Sou formado em Analise e Desenvolvimento de Sistema, e apaixonado por tecnologia. Adoro fazer parte de projetos desafiadores! Atuo em projetos nacionais e internacionais, entregando soluções escaláveis, seguras e de alto desempenho. Se quiser trocar uma ideia, colaborar em um projeto ou só falar de tech, é só chamar! ☕
 
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5583999853630)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/herberth-guimaraes/)
+<br/>
+[![Portfolio](https://img.shields.io/badge/look_my-portfolio-blue)](https://github.com/hebcodee)
 
 ---
 
