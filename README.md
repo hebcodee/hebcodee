@@ -191,11 +191,11 @@ Tenho 21 anos e sou natural da Paraiba. Sou formado em Analise e Desenvolvimento
 ---
 
 ### 📊 Estatísticas
+ <img src="https://komarev.com/ghpvc/?username=hebcodee" alt="hebcodee" align="right" />
 
 <p>
 
 
- <img src="https://komarev.com/ghpvc/?username=hebcodee" alt="hebcodee" align="right" />
  
 <img 
       align="left" 
