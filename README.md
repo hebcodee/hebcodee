@@ -202,14 +202,14 @@ Tenho 21 anos e sou natural da Paraiba. Sou formado em Analise e Desenvolvimento
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=hebcodee&theme=tokyonight&layout=compact&custom_title=Tecnologias&include_all_commits=true&count_private=true" 
+      src="https://gh-stats.work/api/top-langs/?username=hebcodee&theme=tokyonight&layout=compact&custom_title=Tecnologias" 
   />
   
   <img 
     align="left" 
     alt="GitHub Stats" 
     height="200"  
-    src="https://github-readme-stats.vercel.app/api?username=hebcodee&rank_icon=github&theme=tokyonight"
+    src="https://gh-stats.work/api/?username=hebcodee&rank_icon=github&theme=tokyonight"
   />
   
 
