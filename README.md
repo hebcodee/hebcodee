@@ -4,11 +4,6 @@
 
 I'm [**Herberth**](https://hebcodee.vercel.app) a Software Engineer based in Brazil. I enjoy building distributed and scalable systems as well as cloud solutions.
 
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5583999853630)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/herberth-guimaraes/)
-<a href="https://hebcodee.vercel.app/">
-<img src="https://img.shields.io/badge/look_my-portfolio-blue" alt="hebcodee" align="right" />
-<a/>
 
 ---
 
@@ -119,16 +114,6 @@ I'm [**Herberth**](https://hebcodee.vercel.app) a Software Engineer based in Bra
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" 
 />
-
-
-<img 
-    align="left" 
-    alt="MySQL" 
-    title="MySQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
-/>
 <img 
     align="left" 
     alt="PostgreeSQL" 
@@ -194,7 +179,7 @@ I'm [**Herberth**](https://hebcodee.vercel.app) a Software Engineer based in Bra
 
  <img src="https://komarev.com/ghpvc/?username=hebcodee" alt="hebcodee" align="right" />
  
-### 📊 Statistics
+### 📊 Stats
 
 <p>
 
@@ -204,14 +189,14 @@ I'm [**Herberth**](https://hebcodee.vercel.app) a Software Engineer based in Bra
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://gh-stats.work/api/top-langs/?username=hebcodee&theme=tokyonight&layout=compact&custom_title=Tecnologias" 
+      src="https://gh-stats.work/api/top-langs/?username=hebcodee&theme=tokyonight&layout=compact&custom_title=Technologies" 
   />
   
   <img 
     align="left" 
     alt="GitHub Stats" 
     height="200"  
-    src="https://gh-stats.work/api/?username=hebcodee&rank_icon=github&theme=tokyonight"
+    src="https://gh-stats.work/api/?username=hebcodee&rank_icon=github&theme=tokyonight&custom_title=Github_Stats"
   />
   
 
