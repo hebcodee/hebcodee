@@ -1,10 +1,8 @@
-
-<h1 align="center">Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Eu sou Herberth Guimarães</h1>
- 
+## Hi There! <img width="24" alt="image" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" />
 
 **`Software Engineer`**
 
-Tenho 21 anos e sou natural da Paraiba. Sou formado em Analise e Desenvolvimento de Sistema, e apaixonado por tecnologia. Adoro fazer parte de projetos desafiadores! Atuo em projetos nacionais e internacionais, entregando soluções escaláveis, seguras e de alto desempenho. Se quiser trocar uma ideia, colaborar em um projeto ou só falar de tech, é só chamar! ☕
+I'm [**Herberth**](https://hebcodee.vercel.app) a Software Engineer based in Brazil. I enjoy building distributed and scalable systems as well as cloud solutions.
 
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5583999853630)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/herberth-guimaraes/)
@@ -14,7 +12,7 @@ Tenho 21 anos e sou natural da Paraiba. Sou formado em Analise e Desenvolvimento
 
 ---
 
-### 🖥️ Linguagens e Tecnologias
+### 🖥️ Languages and Technologies
 <img 
     align="left" 
     alt="Java"
@@ -65,16 +63,6 @@ Tenho 21 anos e sou natural da Paraiba. Sou formado em Analise e Desenvolvimento
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
-
 <img 
     align="left" 
     alt="Docker" 
@@ -206,7 +194,7 @@ Tenho 21 anos e sou natural da Paraiba. Sou formado em Analise e Desenvolvimento
 
  <img src="https://komarev.com/ghpvc/?username=hebcodee" alt="hebcodee" align="right" />
  
-### 📊 Estatísticas
+### 📊 Statistics
 
 <p>
 
